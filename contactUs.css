@@ -1,0 +1,9 @@
+a{
+    color: black;
+    font-size: 18px;
+}
+
+a:hover{
+    color: rgb(255,66,52);
+}
+

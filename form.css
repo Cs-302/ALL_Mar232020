@@ -1,0 +1,24 @@
+		
+
+.wrapper{
+border: 5px solid red;
+padding: 20px;
+ text-align:  center;
+ margin-right: auto;
+ margin-left: auto;
+
+
+ max-width: 350px;
+}
+
+#adjusttext{
+padding:2em;
+-webkit-text-fill-color:white;
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color:black;
+border: 2px solid lightgrey;
+
+}
+a{
+color:black;
+}

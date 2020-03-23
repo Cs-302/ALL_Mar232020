@@ -1,0 +1,46 @@
+#menu{
+    padding: auto;
+    margin: auto;
+    display: none;
+    background-image: linear-gradient(rgb(255,66,52), black);
+    height: 50%;
+    width: 20%;
+    left: 40%;
+    position: absolute;
+}
+
+.openMenu{
+    height: 2%;
+    width: 10%;
+    padding: auto;
+    margin: auto;
+    align-content: center;
+    position: sticky;
+}
+
+.openMenu img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#menuItem{
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Arial Black';
+    margin-top: 7%;
+    text-align: center;
+    font-style: none;
+    display: block;
+}
+
+#menuItem:visited{
+    color: white;
+    text-decoration: none;
+}
+
+#menuItem:hover{
+    color: darkgrey;
+}
+

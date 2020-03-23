@@ -1,0 +1,118 @@
+.mainTitle{
+    background-color: rgb(255,66,52);
+    font-family: Candara;
+    font-weight: bold;
+    margin: 0px;
+    padding 0px;
+    height: auto;
+    width: 100%;
+    position: sticky;
+}
+
+html, head, body{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    background: url(backgroundimage.png);
+    background-repeat: vertical;
+    background-size: cover;
+}
+
+.navbar img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.navbar{
+    width: 100%;
+    padding: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#menu{
+    padding: auto;
+    margin: auto;
+    display: none;
+    background-image: linear-gradient(rgb(255,66,52), black);
+    height: 50%;
+    width: 20%;
+    left: 40%;
+    position: absolute;
+}
+
+
+a{
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Arial Black';
+    margin-top: 7%;
+    text-align: center;
+    font-style: none;
+    display: block;
+}
+
+a:visited{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: darkgrey;
+}
+
+.footer {
+  position: sticky;
+    margin-top: 100vh;
+  bottom: 0;
+  width: 100%;
+  padding-top: 1rem;
+padding-bottom: 1rem;
+  background-color: black;
+  text-align: center;
+}
+
+.footer h4,h6,h3{
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.openMenu{
+    height: 2%;
+    width: 10%;
+    padding: auto;
+    margin: auto;
+    align-content: center;
+    position: sticky;
+}
+
+.openMenu img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.comingSoon{
+    font-size: 64px;
+    text-align: center;
+}
+
+.leftbar{
+    background-color: rgb(230,230,230);
+    width: 10%;
+    height: 100%;
+    position: fixed;
+}
+
+.rightbar{
+    background-color: rgb(230,230,230);
+    width: 10%;
+    height: 100%;
+    position: fixed;
+    right: 0;
+}
+
